@@ -1,0 +1,15 @@
+list=[8,9,10]
+list.remove(list[1])
+list.insert(1,17)
+print(list)
+list1=[4,5,6]
+list2=list+list1
+print(list2)
+list2.remove(list[0])
+list2.sort()
+print(list2)
+list2=list2*2
+print(list2)
+list2.insert(3,25)
+print(list2)
+#3
